@@ -1,0 +1,7 @@
+| Test Case ID | Test Scenario          | Steps to Execute                | Expected Result         | Actual Result   | Status | Date     |
+| ------------ | ---------------------- | ------------------------------- | ----------------------- | --------------- | ------ | -------- |
+| TC001        | Login Functionality    | Enter valid username & password | User should login       | User logged in  | Pass   | Nov 2024 |
+| TC002        | Login with invalid pwd | Enter username & wrong password | Error message displayed | Error displayed | Pass   | Nov 2024 |
+| TC003        | Start Exam Button      | Click start exam                | Exam should start       | Exam started    | Pass   | Dec 2024 |
+| TC004        | Submit Exam            | Complete and submit exam        | Marks saved             | Marks saved     | Pass   | Jan 2025 |
+| TC005        | Logout Function        | Click logout                    | User should logout      | User logged out | Pass   | Feb 2025 |
