@@ -1,0 +1,7 @@
+| Requirement ID | Requirement Description        | Test Case ID | Status | Actual Result    | Date     |
+| -------------- | ------------------------------ | ------------ | ------ | ---------------- | -------- |
+| REQ001         | User should login successfully | TC001        | Pass   | User logged in   | Nov 2024 |
+| REQ002         | Exam should start properly     | TC003        | Pass   | Exam started     | Dec 2024 |
+| REQ003         | Marks should be saved          | TC004        | Pass   | Marks saved      | Jan 2025 |
+| REQ004         | User should logout             | TC005        | Pass   | User logged out  | Feb 2025 |
+| REQ005         | Result should display          | TC006        | Pass   | Result displayed | Mar 2025 |
