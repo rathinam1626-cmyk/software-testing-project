@@ -1,0 +1,7 @@
+| Bug ID | Module          | Description              | Severity | Status | Reported By | Date     |
+| ------ | --------------- | ------------------------ | -------- | ------ | ----------- | -------- |
+| BUG001 | Login           | Password not accepted    | High     | Fixed  | Mani        | Nov 2024 |
+| BUG002 | Exam Page       | Start button not working | Medium   | Fixed  | Mani        | Dec 2024 |
+| BUG003 | Exam Submission | Marks not saved          | High     | Fixed  | Mani        | Jan 2025 |
+| BUG004 | Logout          | Logout button slow       | Low      | Fixed  | Mani        | Feb 2025 |
+| BUG005 | Result Page     | Result not displayed     | Medium   | Fixed  | Mani        | Mar 2025 |
